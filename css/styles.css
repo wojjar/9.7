@@ -54,7 +54,6 @@ body {
 	font-weight: 700;
 	color: #fff;
 	min-height: 100vh;
-	min-width:100vh;
 	background: linear-gradient(15deg, black, grey);
 }
 p {
